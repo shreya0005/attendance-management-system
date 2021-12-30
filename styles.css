@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+:root{
+    --primary-color: #d1ebe5;
+    --font-family: 'Alata', sans-serif;
+}
+
+body{
+    background-color: #d1ebe5;
+}
+.content{
+    background-color: #d1ebe5;
+}
+.nav-brand{
+    padding-top: 10px;
+}
+.header-heading{
+    padding-bottom: 20px;
+}
+.loginbtn-green{
+    text-align: center;
+    background-color: #3f7d20;
+    border: none;
+    font-size: 15px;
+    border-radius: 0.5rem;
+    color:white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.resetpw{
+    color: var(--primary-color);
+}
+.header-heading{
+    font: var(--font-family);
+    font-size: 40px;
+    font-weight: bolder;
+}
+.header-login{
+    font: var(--font-family);
+    font-size: 20px;
+    font-weight: bold;
+}
+.form-group{
+    font: var(--font-family);
+}
+.createacc{
+    padding-bottom: 20px;
+}
