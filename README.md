@@ -7,8 +7,8 @@ Main purpose of this project is to demonstrate a strong backend database and its
 
 #### Tech Stacks
 
-- 
-- 
+- MySQL
+- PHP
 
 ## Members
  
