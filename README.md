@@ -9,3 +9,9 @@ Main purpose of this project is to demonstrate a strong backend database and its
 
 - 
 - 
+
+## Members
+ 
+ #### [Shreya Sahu](https://github.com/shreya0005)
+ #### [Kriti Sharma](https://github.com/kritisharma1303)
+ #### [Shreya Lodhi](https://github.com/shreyalodhi2001)
